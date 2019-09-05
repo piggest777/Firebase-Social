@@ -12,6 +12,7 @@
 		B5B7D10A23215D8100D60025 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5B7D10823215D8100D60025 /* Main.storyboard */; };
 		B5B7D10C23215D8300D60025 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5B7D10B23215D8300D60025 /* Assets.xcassets */; };
 		B5B7D10F23215D8300D60025 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5B7D10D23215D8300D60025 /* LaunchScreen.storyboard */; };
+		B5B7D11723215EE000D60025 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = B5B7D11623215EE000D60025 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B5B7D10B23215D8300D60025 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B5B7D10E23215D8300D60025 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B5B7D11023215D8300D60025 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5B7D11623215EE000D60025 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				B5B7D10B23215D8300D60025 /* Assets.xcassets */,
 				B5B7D10D23215D8300D60025 /* LaunchScreen.storyboard */,
 				B5B7D11023215D8300D60025 /* Info.plist */,
+				B5B7D11623215EE000D60025 /* GoogleService-Info.plist */,
 			);
 			path = "Firebase Social";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 				B5B7D10F23215D8300D60025 /* LaunchScreen.storyboard in Resources */,
 				B5B7D10C23215D8300D60025 /* Assets.xcassets in Resources */,
 				B5B7D10A23215D8100D60025 /* Main.storyboard in Resources */,
+				B5B7D11723215EE000D60025 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
